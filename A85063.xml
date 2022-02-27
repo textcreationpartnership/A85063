@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithful account of the late dreadful fire in Southvvark Begun on Friday the 26th. of May, 1676. at three of the clock in the morning, and in the space of twenty hours destroyed near five hundred houses, several people, and goods, to an inestimable value. The names of the most considerable places, are as followeth. St. Mary Overy's Church St. Thomas Hospital shattered and defaced. From Chain-Gate in the Burrough, to the Counter on St. Margarets-Hill, on both sides of the way The Market-house Angel-Court Three-Crown-Court Fow'l-Lane Counter-Lane Back-side of the Counter Part of St. Thomas, &amp;c. burnt and demolished. Licensed, May 29. 1676. Roger L'Estrange.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85063</idno>
+            <idno type="STC">Wing F262</idno>
+            <idno type="STC">ESTC R225944</idno>
+            <idno type="EEBO-CITATION">99895648</idno>
+            <idno type="PROQUEST">99895648</idno>
+            <idno type="VID">153212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153212)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2354:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithful account of the late dreadful fire in Southvvark Begun on Friday the 26th. of May, 1676. at three of the clock in the morning, and in the space of twenty hours destroyed near five hundred houses, several people, and goods, to an inestimable value. The names of the most considerable places, are as followeth. St. Mary Overy's Church St. Thomas Hospital shattered and defaced. From Chain-Gate in the Burrough, to the Counter on St. Margarets-Hill, on both sides of the way The Market-house Angel-Court Three-Crown-Court Fow'l-Lane Counter-Lane Back-side of the Counter Part of St. Thomas, &amp;c. burnt and demolished. Licensed, May 29. 1676. Roger L'Estrange.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Pierce,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publication date from Wing.</note>
+                  <note>The words "St. Mary Overy's Church St. Thomas Hospital" and the words "From Chain-Gate ... part of St. Thomas, &amp;c." are gathered by a right brace on the title page.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  Southwark --  Early works to 1800.</term>
+               <term>Southwark (London, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153212:1" rendition="simple:additions"/>
+            <pb facs="tcp:153212:1"/>
+            <pb facs="tcp:153212:2"/>
+            <pb facs="tcp:153212:2"/>
+            <pb facs="tcp:153212:3"/>
+            <pb facs="tcp:153212:3"/>
+            <p>A Faithful Account <hi>Of the Late</hi> DREADFUL FIRE in <hi>SO<g ref="char:V">Ʋ</g>THVVARK.</hi>
+            </p>
+            <p>Begun on <hi>Friday</hi> the 26th. of <hi>May,</hi> 1676. At three of the Clock in the morning, and in the ſpace of twenty hours deſtroyed near Five Hundred Houſes, ſeveral People, and Goods, to an ineſtimable Value.</p>
+            <p>The Names of the moſt Conſiderable Places, are as followeth.</p>
+            <list>
+               <item>
+                  <list>
+                     <head>Shattered and Defaced.</head>
+                     <item>St. <hi>Mary Overy's Church</hi>
+                     </item>
+                     <item>St. <hi>Thomas Hoſpital</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Burnt and Demoliſhed.</head>
+                     <item>From <hi>Chain-Gate</hi> in the <hi>Burrough,</hi> to the <hi>Counter</hi> on St. <hi>Margarets-Hill,</hi> on both ſides of the way</item>
+                     <item>The <hi>Market-houſe</hi>
+                     </item>
+                     <item>
+                        <hi>Angel-Court</hi>
+                     </item>
+                     <item>
+                        <hi>Three-Crown-Court</hi>
+                     </item>
+                     <item>
+                        <hi>Fow'l-Lane</hi>
+                     </item>
+                     <item>
+                        <hi>Counter-Lane</hi>
+                     </item>
+                     <item>
+                        <hi>Back-ſide of the Counter</hi>
+                     </item>
+                     <item>Part of St. <hi>Thomas,</hi> &amp;c.</item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>May 29. 1676.</date>
+                           </dateline> 
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Printed for</hi> Thomas Pierce.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153212:4"/>
+            <pb facs="tcp:153212:4"/>
+            <head>A Faithful Account of the late <hi>Dreadful Fire in</hi> Southvvark, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Outhwark</hi> was lately known to be a ſpaci<g ref="char:EOLhyphen"/>ous <hi>Burrough,</hi> and a place of a great trade, full of Houſes and In<g ref="char:EOLhyphen"/>habitants, and thoſe for the moſt part weal<g ref="char:EOLhyphen"/>thy, which I recite to make the Reader the more apprehenſive of the great Deſolation made there by the late Dreadful Fire, and of the Damage many of the now really poor Inha<g ref="char:EOLhyphen"/>bitants have ſuſtained thereby.</p>
+            <p>
+               <pb n="2" facs="tcp:153212:5"/>It began on <hi>Friday</hi> the 26. of this inſtant <hi>May,</hi> about three of the Clock in the Morning at an Oyl-ſhop over-againſt the <hi>Counter,</hi> upon St. <hi>Margarets-hill;</hi> which is as it were the very heart of the <hi>Burrough,</hi> the Wind <hi>Southerly,</hi> and blowing very freſh, ſo that it burnt not very con<g ref="char:EOLhyphen"/>ſiderably to Wind-ward, but burnt its chief fury down the Street towards the Bridge, and not<g ref="char:EOLhyphen"/>withſtanding a preſent alarm given, and a great concourſe of people, with an imaginable expe<g ref="char:EOLhyphen"/>dition in bringing of Engines, in very little time it got a conſiderable head on both ſides of the way, inſomuch that the Engines being over<g ref="char:EOLhyphen"/>powered and able to do but little good, they were forced to betake themſelves to blow<g ref="char:EOLhyphen"/>ing up of Houſes, which they did for ſome time with pretty good ſucceſs, but as the morning came on, ſuch an innumerable company of Spectators were flocked together, that inſtead of aſſiſtance, they proved a very great hinderance to the Engineers, who durſt not blow up the Houſes they deſign'd, for fear of doing miſchief to thoſe crowds of People that were about them. Notwithſtanding which care of theirs, many were ſo reſolute or heedleſs as to run into the mouth of danger by which means many ſuffered in their lives and limb's, beſides others ſuppoſed to be burned in their beds, to a number not yet to be computed.</p>
+            <p>
+               <pb n="3" facs="tcp:153212:5"/>This hurry and diſtraction continuing all the day the Fire encres'd, the houſes being for the moſt part old and timber built, with the violence of the Wind, contributing to its fury, inſomuch that about noon it had reach'd the Market-houſe, and endangered the Hoſpital of St. <hi>Thomas,</hi> and St. <hi>Mary Overy's Church,</hi> whereupon the people began to blow up houſes at a great diſtance, and to play their Engines more violently againſt the Hoſpital and Houſes adjacent; ſo that by four or five in the Afternoon, it was brought into a narrower compaſs, and the fury of it ſeem'd to be ſomewhat abated, and towards the Even<g ref="char:EOLhyphen"/>ing, as the company began to draw homewards, ſome perſons of Eminence undertaking to give the Engineers inſtructions, and encouragement by Rewards, and their own perſonal hazards, they at laſt conquered this cruel Tyrant, and by eleven at night got ſo much the maſterdom that there appeared no further danger.</p>
+            <p>But for the ſatisfaction of ſuch as live more remote, and in regard of their own or their Relations concerns expect a more particular ac<g ref="char:EOLhyphen"/>count the fire deſtroyed as followeth.</p>
+            <p>
+               <pb n="4" facs="tcp:153212:6"/>From the Cock and Hart yard neer the Spur-Inn, down to St. <hi>Thomas</hi>'s Hoſpital, <hi>Viz.</hi> The Talbot, the George, the White-Hart, the Kings-head, the Queens-head, Inns; Together with their Back-houſes, Stables, Barns, and Ware<g ref="char:EOLhyphen"/>houſes all burn'd down to the ground; The Hoſ<g ref="char:EOLhyphen"/>pital very much defaced, and the houſes backward burn'd as far as St. <hi>Thomas's</hi> Church-yard, and the fronting-houſes of that ſide of the way much ſhattered for a conſiderable way; from within a houſe or two of Pepper-Alley, on the other ſide many houſes towards the Market likewiſe much ſhatter'd, and from below Chain-gate up to the Counter, upon St. <hi>Margrets</hi>-hill, burn'd down to the ground; The lane on the back-ſide of the Counter leading toward St. <hi>Mary Overy's</hi> ſtairs burn'd and ſhatter'd on both ſides of the way as far as St. <hi>Mary Overy's</hi> Church, which was with much difficulty preſerved after the fire had taken hold of the Chancel, and damaged it conſiderably, Chain-gate, The Market-houſe, Fowl-lane, Angel-Court, Three-Crown-Court, the Counter and Counter-Lane, &amp;c. all burn'd to the ground, on<g ref="char:EOLhyphen"/>ly one houſe preſerved as it were in the midſt of the Fire.</p>
+            <p>
+               <pb n="5" facs="tcp:153212:6"/>It is a difficult matter by ſurveying the ruines to compute the number of houſes burn'd and de<g ref="char:EOLhyphen"/>moliſhed, but by a general eſtimate they are ima<g ref="char:EOLhyphen"/>gined to be near a thouſand, though I confeſs I cannot gueſs them to be above five or ſix hun<g ref="char:EOLhyphen"/>dred, the vacancy of ground being as I conceive about three hundred paces in length and near half that in breadth, on moſt of which ground the houſes ſtood very thick.</p>
+            <p>Thus in the ſpace of twenty hours has this fierce and terrible fire impoveriſh'd ſome hundreds of families, who had all their ſubſtance ſwept away in a moment, and many of them expoſed to the kindneſs of their friends or the charity of ſtrang<g ref="char:EOLhyphen"/>ers; but how it began remains as yet doubtful; the very next neighbours knowing nothing of it, and though the Reader may expect to have his curioſity ſatisfied in this particular, I ſhall not at<g ref="char:EOLhyphen"/>tempt to traduce one man to pleaſure another; howſoever it came about, I am ſure it was an Omnipotent hand that ſuffered it, and therefore as thoſe poor ſouls that are undone by it, cannot but find pitty from the good, ſo I hope they will meet with relief from the wealthy, whom never<g ref="char:EOLhyphen"/>theleſs I caution to beware of Vagabonds, that wander the countrey under the pretence of being ruin'd thereby, though no way concern'd therein.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153212:7"/>
+            <pb facs="tcp:153212:7"/>
+            <pb facs="tcp:153212:8"/>
+            <pb facs="tcp:153212:8"/>
+            <pb facs="tcp:153212:9" rendition="simple:additions"/>
+            <pb facs="tcp:153212:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
